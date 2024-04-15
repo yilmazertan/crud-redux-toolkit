@@ -9,7 +9,7 @@ const initialState = [
   {
     id: "ca428a0d-44af-4567-b5e1-11da9bdb9509",
     name: "Hüseyin",
-    email: "hüseyin@gmail.com",
+    email: "hüseyin@gmail.comss",
   },
 ];
 

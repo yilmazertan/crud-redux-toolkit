@@ -1,1 +1,1 @@
-# crud-redux-toolkit
+# A simple project to understand redux
